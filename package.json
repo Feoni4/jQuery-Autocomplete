@@ -4,7 +4,7 @@
   "description": "Autocomplete provides suggestions while you type into the text field.",
   "homepage": "https://github.com/devbridge/jQuery-Autocomplete",
   "author": "Tomas Kirda (https://twitter.com/tkirda)",
-  "main": "dist/jquery.autocomplete.js",
+  "main": "/typings/jquery-autocomplete/jquery.autocomplete.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
     "grunt-contrib-uglify": "^1.0.1"
   },
   "files": [
-    "dist/",
     "/typings/jquery-autocomplete/jquery.autocomplete.d.ts",
     "readme.md"
   ]
